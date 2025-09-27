@@ -24,7 +24,7 @@ Key Features:
       - Flip flashcards to view questions and answers, delete individual cards, shuffle cards and use text-to-speech for auditory learning.
 
   Quiz Mode
-Take quizzes with multiple-choice questions based on your flashcards and receive instant feedback and scoring.
+      - Take quizzes with multiple-choice questions based on your flashcards and receive instant feedback and scoring.
 
   Persistent Data
 Flashcard sets are stored in Firebase Firestore, allowing access across sessions.
